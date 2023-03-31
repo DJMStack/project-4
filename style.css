@@ -329,6 +329,9 @@ h4 {
 
 
 @media screen and (max-width: 600px) {
+nav ul li {
+	font-size:.7em;
+}
     .hero-left span {
         font-size: 3em;
         width: 80%;
